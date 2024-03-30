@@ -1,0 +1,25 @@
+{
+  "name": "nodemod2",
+  "version": "1.0.0",
+  "description": "mod2 solution",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parascool/Node_mod2_createApp.git"
+  },
+  "author": "Paras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parascool/Node_mod2_createApp/issues"
+  },
+  "homepage": "https://github.com/parascool/Node_mod2_createApp#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
